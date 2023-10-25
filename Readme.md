@@ -23,3 +23,13 @@ https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcme
 https://vim-adventures.com/
 
 
+# ToDo 
+
+## Thunderbird 
+
+How to copy message subject?
+Didn't find a solution yet.
+
+Probably need to create a new addon based on:
+https://github.com/garoose/copy-message-id
+
