@@ -25,6 +25,13 @@ https://vim-adventures.com/
 
 # ToDo 
 
+## General
+
+### Zoom
+
+How to zoom in and out in programs that only support ctr+mousewheel instead of ctrl+ / ctrl-
+
+
 ## Thunderbird 
 
 How to copy message subject?
