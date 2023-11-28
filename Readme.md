@@ -17,6 +17,12 @@ Take screenshots by using the keyboard only. No need to drag a rectangle with th
 
 https://github.com/BenjaminKobjolke/KeyboardScreenshot
 
+## Fast Keyboard Spliiter Bar Handler
+
+Drag the bars that seperate parts of windows around with the keyboard.
+
+https://github.com/BenjaminKobjolke/FastKeyboardSplitterBarHandler
+
 ## NeatmMouse
 
 Use the keyboard to move the mouse cursor.
