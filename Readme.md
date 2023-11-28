@@ -5,25 +5,47 @@ This is a mix of tools that I found to achieve this goal and tools I created mys
 
 # Tools
 
+## Fast Keyboard Window Switcher
+
+Use tab/CapsLock to open a window switcher and switch between windows with the keyboard.
+
 https://github.com/BenjaminKobjolke/FastKeyboardWindowSwitcher
+
+## Keyboard Screenshot
+
+Take screenshots by using the keyboard only. No need to drag a rectangle with the mouse.
 
 https://github.com/BenjaminKobjolke/KeyboardScreenshot
 
+## NeatmMouse
+
+Use the keyboard to move the mouse cursor.
+
 https://neatdecisions.com/products/neatmouse/
 
-Vimium Addon for Firefox
+## Vimium for your browser
+
+Navigate the web with the keyboard only.
+
+### Vimium Addon for Firefox
+
 https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/
 
-Vimium Addon for Chrome
+### Vimium Addon for Chrome
+
 https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 
+## Taskbar Control
+
+Use ctrl+i to show / hide the taskbar
+
+https://github.com/BenjaminKobjolke/Mouseless-Windows.git
 
 # Fun
 
 https://vim-adventures.com/
 
-
-# ToDo 
+# ToDo
 
 ## General
 
@@ -31,12 +53,10 @@ https://vim-adventures.com/
 
 How to zoom in and out in programs that only support ctr+mousewheel instead of ctrl+ / ctrl-
 
-
-## Thunderbird 
+## Thunderbird
 
 How to copy message subject?
 Didn't find a solution yet.
 
 Probably need to create a new addon based on:
 https://github.com/garoose/copy-message-id
-
